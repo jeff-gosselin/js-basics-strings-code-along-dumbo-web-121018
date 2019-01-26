@@ -1,1 +1,1 @@
-let currentUser;
+const currentUser = 'Grace Hopper';
